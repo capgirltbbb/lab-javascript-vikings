@@ -51,7 +51,10 @@ We must write the correct code in the `src/viking.js` file to make the test pass
 
 ```javascript
 // Soldier
-class Soldier {}
+class Soldier {
+  
+  }
+}
 
 // Viking
 class Viking {}
